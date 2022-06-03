@@ -40,7 +40,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Asmah Movies World</h1>
+        <h6>Asmah Movies World</h6>
         <form onSubmit={handleOnSubmit}>
         <input 
             className="search" 
