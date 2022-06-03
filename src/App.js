@@ -40,7 +40,9 @@ function App() {
   return (
     <>
       <header>
-        <h6>Asmah Movies World</h6>
+        <h6>Asmah Movies World
+          <hr /> Instagram: @asmahsings <br /> Snapchat: @asmahsings
+        </h6>
         <form onSubmit={handleOnSubmit}>
         <input 
             className="search" 
